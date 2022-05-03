@@ -6,5 +6,6 @@ public class Main {
         System.out.print("Type a number: ");
         int number = sc.nextInt();
         System.out.println("Your number is: " + number);
+
     }
 }
